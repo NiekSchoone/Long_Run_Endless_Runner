@@ -6,7 +6,6 @@ public class BridgeSwitch : MonoBehaviour
 	private bool switchingUp = false;
 	private bool switchingDown = false;
 
-
 	// Use this for initialization
 	void Start () 
 	{
